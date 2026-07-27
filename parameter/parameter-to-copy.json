@@ -1,0 +1,52 @@
+[
+    {
+        "RelativeURL" : "Suraj-dobhal/SRJ-data-engineering-project/refs/heads/main/Datasets/AdventureWorks_Calendar.csv" ,
+        "DirectoryName" : "Calendar" ,
+        "FileName" : "Calendar.csv"
+    } ,
+    {
+        "RelativeURL" : "Suraj-dobhal/SRJ-data-engineering-project/refs/heads/main/Datasets/AdventureWorks_Customers.csv" ,
+        "DirectoryName" : "Customers" ,
+        "FileName" : "Customers.csv"
+    } ,
+    {
+        "RelativeURL" : "Suraj-dobhal/SRJ-data-engineering-project/refs/heads/main/Datasets/AdventureWorks_Product_Categories.csv" ,
+        "DirectoryName" : "Product_Categories" ,
+        "FileName" : "Product_Categories.csv"
+    } ,
+    {
+        "RelativeURL" : "Suraj-dobhal/SRJ-data-engineering-project/refs/heads/main/Datasets/AdventureWorks_Product_Subcategories.csv" ,
+        "DirectoryName" : "Product_Subcategories" ,
+        "FileName" : "Product_Subcategories.csv"
+    } ,
+    {
+        "RelativeURL" : "Suraj-dobhal/SRJ-data-engineering-project/refs/heads/main/Datasets/AdventureWorks_Products.csv" ,
+        "DirectoryName" : "Products" ,
+        "FileName" : "Products.csv"
+    } ,
+    {
+        "RelativeURL" : "Suraj-dobhal/SRJ-data-engineering-project/refs/heads/main/Datasets/AdventureWorks_Returns.csv" ,
+        "DirectoryName" : "Returns" ,
+        "FileName" : "Returns.csv"
+    } ,
+    {
+        "RelativeURL" : "Suraj-dobhal/SRJ-data-engineering-project/refs/heads/main/Datasets/AdventureWorks_Sales_2015.csv" ,
+        "DirectoryName" : "Sales_2015" ,
+        "FileName" : "Sales_2015.csv"
+    } ,
+    {
+        "RelativeURL" : "Suraj-dobhal/SRJ-data-engineering-project/refs/heads/main/Datasets/AdventureWorks_Sales_2016.csv" ,
+        "DirectoryName" : "Sales_2016" ,
+        "FileName" : "Sales_2016.csv"
+    } ,
+    {
+        "RelativeURL" : "Suraj-dobhal/SRJ-data-engineering-project/refs/heads/main/Datasets/AdventureWorks_Sales_2017.csv" ,
+        "DirectoryName" : "Sales_2017" ,
+        "FileName" : "Sales_2017.csv"
+    } ,
+    {
+        "RelativeURL" : "Suraj-dobhal/SRJ-data-engineering-project/refs/heads/main/Datasets/AdventureWorks_Territories.csv" ,
+        "DirectoryName" : "Territories" ,
+        "FileName" : "Territories.csv"
+    }
+]
